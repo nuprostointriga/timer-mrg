@@ -1,4 +1,9 @@
-#timer {
+.wrapper {
+	margin-bottom: 5rem;
+}
+
+#timer,
+#animationTimer {
 	text-align: center;
 
 	width: 20rem;
